@@ -1,0 +1,36 @@
+@import "helpers/__grid.scss";
+@import "helpers/__gui.scss";
+@import "helpers/__fonts.scss";
+* {
+    margin: 0;
+    padding: 0;
+    outline: none;
+}
+
+a {
+    text-decoration: none;
+}
+
+ul {
+    list-style: none;
+}
+
+
+/*
+.bg-vk_small {
+    width: 48px; height: 48px;
+    background: url('css_sprites.png') -10px -10px;
+}
+.bg-vk_small_disabled {
+    width: 48px; height: 48px;
+    background: url('css_sprites.png') -78px -10px;
+}
+.bg-inst_small {
+    width: 48px; height: 48px;
+    background: url('css_sprites.png') -10px -78px;
+}
+.bg-inst_small_disabled {
+    width: 48px; height: 48px;
+    background: url('css_sprites.png') -78px -78px;
+}
+ */

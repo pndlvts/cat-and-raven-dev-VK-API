@@ -1,0 +1,3 @@
+App ID: 7372798
+VK token: d42e0cf2def9f4942c5b1093b036eefe721c46bc95da644241946b5c33c8831e4d49d50703541572e2a0c
+oAuth addr: https://oauth.vk.com/blank.html#access_token=d42e0cf2def9f4942c5b1093b036eefe721c46bc95da644241946b5c33c8831e4d49d50703541572e2a0c&expires_in=0&user_id=439191767
